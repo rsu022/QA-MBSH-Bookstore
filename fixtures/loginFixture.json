@@ -1,0 +1,32 @@
+{
+  "validUser": {
+    "email": "rachel@gmail.com",
+    "password": "Valid@123"
+  },
+  "invalidUser": {
+    "email": "rachel@gmail.com",
+    "password": "Valid@123",
+    "invalidEmail": "admin@gmail.com",
+    "invalidPassword": "admin123",
+    "emptyEmail": "",
+    "emptyPassword": ""
+  },
+  "search": {
+    "searchTerm": "The Summer I Turned Pretty",
+    "randomSearch": "reshu",
+    "outOfStockBook": "1984"
+  },
+
+  "checkout": {
+    "Town": "Kathmandu",
+    "Postcode": "224400"
+  },
+  "billing": {
+    "City": "Kathmandu",
+    "Phone": "9841037689",
+    "Street": "Thamel",
+    "Firstname": "Rachel",
+    "Lastname": "Green",
+    "HouseNo": "B16"
+  }
+}
